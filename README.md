@@ -20,7 +20,11 @@
 
 # Greeting App <a name="about-project"></a>
 
-**This a simple webapp which is help users to get random greeting everytime they visit. This app is built using React, Rails, and Webpack.**.<a name="built-with"></a>
+**This a simple webapp which is gets random greetings.**.<a name="built-with"></a>
+
+## 🚀 react Link<a name="react"></a>
+
+- [react Link](https://github.com/Jolak5/hello-react/)
 
 ### Tech Stack <a name="tech-stack"></a>
 
